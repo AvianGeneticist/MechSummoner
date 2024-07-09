@@ -60,7 +60,7 @@ ship "Mechsummon Lenticulate" "Mechsummon Lenticulate II"
 		`"Biroo" Atomic Steering`
 		`"Bondir" Atomic Thruster`
 		`"Benga" Reverse Thruster`
-		"Hyperdrive"
+		"Jump Drive"
 
 	
 ship "Mechsummon Fissure" "Mechsummon Fissure II"
